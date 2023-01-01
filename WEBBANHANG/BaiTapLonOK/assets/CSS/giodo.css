@@ -1,0 +1,270 @@
+﻿
+
+
+#out-click {
+    color: #ffff;
+}
+
+out-tk {
+    width: 200px;
+}
+
+#out_div:hover .out-show {
+    display: block;
+}
+
+.out-show {
+    display: none;
+    width: 75px;
+    font-size: 15px;
+    color: #ffff;
+    font-weight: normal;
+}
+
+.out {
+    display: none;
+}
+
+.fa-sign-out-alt {
+    font-size: 20px;
+}
+
+#out_div {
+    margin-left: 500px;
+    position: relative;
+    left: 624px;
+    bottom: 30px;
+}
+
+.main_auth {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 1300px;
+    display: flex;
+}
+
+.main-left {
+    margin-left: -120px;
+}
+
+.comeback {
+    margin-left: 20px;
+    color: blue;
+    width: 220px;
+}
+
+.can {
+    margin: 10px;
+}
+
+.comeback :hover {
+    color: blueviolet;
+}
+
+.sp1 {
+    display: flex;
+    font-size: 18px;
+    margin-top: 20px;
+    border-bottom: solid 1px #eee;
+    ;
+}
+
+.left {
+    width: 155px;
+    margin-right: 30px;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img {
+    width: 120%;
+}
+
+.right {
+    width: 370px;
+    margin: 30px;
+}
+
+.box {
+    display: flex;
+    height: 210px;
+    margin-top: 20px;
+    border-bottom: solid 1px #eee;
+    padding: 20px;
+}
+
+.main_auth button {
+    padding: 12px 15px 10px 15px;
+    font-weight: 700;
+    border: rgb(226, 226, 226) solid 1px;
+    background-color: white;
+}
+
+button:hover {
+    color: white;
+    background-color: tomato;
+}
+
+.thaotac {
+    margin: 20px;
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+}
+
+.giasp {
+    color: red;
+}
+
+.main-cost {
+    display: flex;
+    padding: 20px;
+    border-bottom: solid 1px #eee;
+}
+
+.cost-title {
+    font-weight: 700;
+    width: 100%;
+}
+
+.main-cost .cost {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+}
+
+.information {
+    padding: 20px;
+    margin-left: -5px;
+}
+
+.information-name {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.information-user {
+    display: block;
+}
+
+.place-user {
+    display: block;
+}
+
+.namea {
+    margin-right: 10px;
+}
+
+.people {
+    margin-left: 0;
+}
+
+    .people input {
+        width: 100%;
+        padding: 5px;
+    }
+
+.place-user {
+    margin-top: 10px;
+}
+
+.receive {
+    margin: 20px 0;
+}
+
+.receive-name {
+    font-size: 25px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.shopping {
+    width: 100%;
+}
+
+.buy-shop-home {
+    padding: 10px;
+    text-align: center;
+    background: #277cea;
+    color: #fff;
+    border-radius: 10px;
+    border: solid 1px #1d72e0;
+}
+
+    .buy-shop-home:hover {
+        background: #fff;
+        color: #046df7;
+        border: solid 1px #1d72e0;
+    }
+
+.title-online {
+    margin: 35px 0;
+    display: flex;
+}
+
+.row-hr {
+    height: 2px;
+    background: #eee;
+    width: 128px;
+}
+
+strong {
+    font-size: 18px;
+}
+
+.shopping-red {
+    width: 100%;
+}
+
+.click-online {
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    background: linear-gradient(#f52f32,#e11b1e);
+    border: solid 1px #e11b1e;
+    margin: 20px 0px 20px 0px;
+}
+
+    .click-online:hover {
+        background: #fff;
+        color: #e11b1e;
+        border: solid 1px #e11b1e;
+    }
+
+#error {
+    color: red;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+#errorname {
+    color: red;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+#errorphone {
+    color: red;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+#errorplace {
+    color: red;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+.cost {
+    color: red;
+}
